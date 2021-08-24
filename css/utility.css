@@ -1,0 +1,14 @@
+/* DESKTOP VERSION */
+
+@media (min-width: 992px) {
+  nav.navbar {
+    width: 20%;
+    height: 100vh;
+    align-items: flex-start;
+    position: fixed;
+  }
+  .konten {
+    width: 75%;
+    margin-left: 22%;
+  }
+}
