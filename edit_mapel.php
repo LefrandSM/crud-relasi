@@ -151,7 +151,7 @@ if (isset($_POST['ubah'])) {
                     </div>
                 <?php endif; ?>
             </div>
-            <button type="submit" class="btn btn-primary" name="ubah">Tambah Data Mapel</button>
+            <button type="submit" class="btn btn-primary" name="ubah">Tambah Data Mape</button>
         </form>
     </div>
 
